@@ -25,7 +25,7 @@ weeks, 2026-10-05–11-02), and on the 65-case practice window.
 
 | metric | this model | persistence |
 |---|---|---|
-| pooled MAE, 388 cases (cents) | 36,842 | 37,465 |
+| pooled MAE, 388 cases (cents) | 36,844 | 37,465 |
 | 12-case final-format blocks won | 77.6% (152/196) | — |
 | mean block improvement | +2.9% | — |
 | practice 65-case window | +3.8% | — |
